@@ -44,6 +44,11 @@
   padding-bottom:40px;
 }
 
+.room{
+  display:flex;
+  flex-direction: column;
+}
+
 .room a{
   color:white;
   text-decoration: none;
