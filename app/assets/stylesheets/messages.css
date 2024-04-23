@@ -86,9 +86,6 @@
   padding-top:46px;
   padding-left:40px;
   padding-right:40px;
-}
-
-.message-contents{
   overflow: scroll;
 }
 
